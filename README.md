@@ -8,8 +8,8 @@ A minimalist-sort-of Gruvbox-dark powerline theme for oh-my-zsh
 1. Requires a Nerd Font or Powerline-patched font
 
 ## Line Format
-# Left : [user@host] > [directory] > [git branch]
-# Right: [elapsed] < [exit code]
+- Left : [user@host] > [directory] > [git branch]
+- Right: [elapsed] < [exit code]
 
 
 
